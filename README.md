@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalhando como Consultor e BI
 - 🌱 Estudando Python
-- 📫 Envie um email para: victor_vsantos@hotmail.com
 
 <div>
   <a href="https://linktr.ee/VictorVdoS">
