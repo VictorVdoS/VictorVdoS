@@ -1,8 +1,8 @@
 ### Oie, eu sou o Victor Vieira!
 
 
-- 🔭 Atualmente trabalhando como Consultor e BI
-- 🌱 Estudando Python
+- 🔭 Atualmente trabalhando como CM e BI
+- 🌱 Estudando Python, R, DAX e M 
 
 <div>
   <a href="https://linktr.ee/VictorVdoS">
