@@ -1,7 +1,7 @@
 ### Oie, eu sou o Victor Vieira!
 
 
-- 🔭 Atualmente trabalhando como CM e BI
+- 🔭 Atualmente trabalhando como Analista de BI
 - 🌱 Estudando Python, R, DAX e M 
 
 <div>
