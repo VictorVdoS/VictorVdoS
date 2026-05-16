@@ -27,7 +27,3 @@
   <a href = "mailto:victor_vsantos@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 </div>
-   
-### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22jztbpw4dqscdzldob4hfjti?si=f8a7af1bc339454a)
-<br/>
